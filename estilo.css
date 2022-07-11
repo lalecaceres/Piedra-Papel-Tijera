@@ -1,0 +1,33 @@
+.card {
+    border-radius: 50px;
+    background: linear-gradient(145deg, #cacaca, #f0f0f0);
+    box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
+    width: 18rem;
+}
+
+body {
+    background: rgb(36,0,13);
+background: -moz-radial-gradient(circle, rgba(36,0,13,0.47942927170868344) 0%, rgba(69,153,161,0.7063200280112045) 35%, rgba(0,255,51,1) 100%);
+background: -webkit-radial-gradient(circle, rgba(36,0,13,0.47942927170868344) 0%, rgba(69,153,161,0.7063200280112045) 35%, rgba(0,255,51,1) 100%);
+background: radial-gradient(circle, rgba(36,0,13,0.47942927170868344) 0%, rgba(69,153,161,0.7063200280112045) 35%, rgba(0,255,51,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#24000d",endColorstr="#00ff33",GradientType=1);
+}
+
+.result {
+    text-align: center;
+    font-weight: bolder;
+    border-radius: 50px;
+    background: #23afac;
+    box-shadow: inset 20px 20px 60px #1e9592,
+            inset -20px -20px 60px #28c9c6;
+            font-size: 40px;
+}
+
+.btn {
+    border-radius: 50px;
+background: #e0e0e0;
+box-shadow: inset 20px 20px 40px #bebebe,
+            inset -20px -20px 40px #ffffff;
+            width: 100px;
+}
